@@ -33,7 +33,7 @@ public class ActionClassTest1 {
 		
 		Passanger(driver, "Adult", 1);
 		Thread.sleep(1000);
-		Passanger(driver, "Child", 2);
+		Passanger(driver, "Child", 1);
 		Thread.sleep(1000);
 		Passanger(driver, "Infant", 1);
 		
